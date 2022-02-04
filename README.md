@@ -29,12 +29,12 @@ Is a sequence that the next number depends of the two before!
 
 What is a factorial?
 ```
-Is a multiplication from a number down to 1
+Is a multiplication from a number down to 1!
 
 ```
 What is a prime number?
 ```
-A number that is divided only by one and itself.
+A number that is divided only by one and itself!
 
 ```
 What is a pair number and an odd number?
